@@ -1,0 +1,1 @@
+insert into Contact values (1, 'Belen');
